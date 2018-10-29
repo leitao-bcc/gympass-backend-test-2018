@@ -1,6 +1,6 @@
 import operator
 from datetime import datetime, time, timedelta
-from log_utils import split_log_line
+from race.log_utils import split_log_line
 
 
 class Driver:
